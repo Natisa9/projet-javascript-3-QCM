@@ -1,0 +1,27 @@
+@media screen and (max-width : 431px) {
+    h1 {
+        font-size: 2em;
+        margin-top: 1em;
+    }
+
+    div {
+        font-size: 1em;
+        margin-top: 5vh;
+    }
+
+    #conteneur {
+        width: 90vw;
+        margin-top: 5vh;
+    }
+
+    #rejouez {
+        height: 7vh;
+    }
+
+    button {
+        border-width: 1px;
+        height: 7vh;
+        width: 18vw;
+        font-size: 0.5em;
+    }
+}
